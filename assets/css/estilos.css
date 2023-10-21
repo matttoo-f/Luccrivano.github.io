@@ -1,0 +1,25 @@
+body {
+  font-family: "Fjalla One", sans-serif;
+}
+
+.Hero-Section {
+  background-image: url("../img/caspar-camille-rubin-89xuP-XmyrA-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Mis-trabajos .image-top {
+  height: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.Acerca-de-mi {
+  color: rgb(35, 35, 34);
+}
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
